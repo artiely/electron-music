@@ -97,5 +97,9 @@ const url = path.join(__dirname, '../../static/img/on.ico')
 
 ```
 
-[demo地址]()
+[demo地址](https://github.com/artiely/electron-music)
+
+
+尝试的效果如下
+![](t.png)
 
